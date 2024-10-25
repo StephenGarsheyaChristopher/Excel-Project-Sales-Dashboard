@@ -37,7 +37,6 @@ The dashboard includes:
 ## Screenshots
 
 ![Excel Dashboard Screenshot]((https://photos.onedrive.com/photo/2BA1E4DE0995CE18!s4c9a4757b43941c7b8ea8f051b56519e?view=all))  
-*Insert a screenshot of your dashboard here for visual context.*
 
 ## How to Use This Dashboard
 1. Download the Excel file from this repository.
